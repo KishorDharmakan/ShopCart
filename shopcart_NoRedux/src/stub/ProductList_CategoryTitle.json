@@ -1,0 +1,78 @@
+{
+    "Software":[
+       {
+          "product-name":"MS Worrd 2015",
+          "product-description":"MS Worrd is used for documentation needs",
+          "product-photo":"Shop All",
+          "product-category":"Software",
+          "product-price":"Rs 1500"
+       },
+       {
+        "product-name":"MS Exccel 2015",
+        "product-description":"MS Exccel is used for calculation needs",
+        "product-photo":"Shop All",
+        "product-category":"Software",
+        "product-price":"Rs 1450"
+       },
+       {
+        "product-name":"MS Powerppoint 2015",
+        "product-description":"MS Powerppoint is used for presentation needs",
+        "product-photo":"Shop All",
+        "product-category":"Software",
+        "product-price":"Rs 1550"
+        }
+    ],
+    "Processor":[
+        {
+           "product-name":"i3",
+           "product-description":"i3 Processor with 3.2Ghz speed",
+           "product-photo":"Shop All",
+           "product-category":"HaProcessorrdware",
+           "product-price":"Rs 8500"
+        },
+        {
+         "product-name":"i5",
+         "product-description":"i5 Processor  with 4.2Ghz speed",
+         "product-photo":"Shop All",
+         "product-category":"Processor",
+         "product-price":"Rs 14450"
+        },
+        {
+         "product-name":"i7",
+         "product-description":"i7 Processor  with 5.2Ghz speed",
+         "product-photo":"Shop All",
+         "product-category":"Processor",
+         "product-price":"Rs 22550"
+         },
+         {
+          "product-name":"Pentium 4",
+          "product-description":"Pentium 4 Processor  with 2.2Ghz speed",
+          "product-photo":"Shop All",
+          "product-category":"Processor",
+          "product-price":"Rs 22550"
+          }
+     ],
+     "RAM":[
+        {
+           "product-name":"Corssair 8GB",
+           "product-description":"Corssair Vengeance 8GB DDR4 LPX 2400MHz C16 RAM Kit for X99 Chipset (CMK8GX4M1A2400C16R)",
+           "product-photo":"Shop All",
+           "product-category":"RAM",
+           "product-price":"Rs 5500"
+        },
+        {
+            "product-name":"HyperXY Fury 8GB",
+            "product-description":"HyperXY Fury Black 8 GB CL15 DIMM DDR4 2400 MT/s Internal Memory (HX424C15FB2/8)",
+            "product-photo":"Shop All",
+            "product-category":"RAM",
+            "product-price":"Rs 6000"
+        },
+        {
+            "product-name":"Livingston 8GB",
+            "product-description":"Livingston ValueRAM 8GB 2400Mhz DDR4 Non-ECC CL17 SODIMM 1Rx8 (KVR24S17S8/8)",
+            "product-photo":"Shop All",
+            "product-category":"RAM",
+            "product-price":"Rs 6000"
+         }
+     ]
+ }
